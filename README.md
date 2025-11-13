@@ -57,43 +57,8 @@
 
 ### 🧪 Current Projects  
 
-- 🛰️ **Smart City IoT & Predictive Analytics**  
-  Building a concept for real-time sensor data pipelines and forecasting models.  
-
 - 🏦 **Data Warehouse / BI @ Porsche Bank Group**  
   Working with SQL, ETL flows and reporting in an automotive & finance environment.  
-
-- 🐍 **Python Projects for Data & Distributed Systems**  
-  Message queues, data processing scripts and small ML experiments.  
-
-- 📊 **Portfolio Build-Up**  
-  Turning university and side projects into clean, documented GitHub repositories.  
-
----
-
-## 🛣️ Roadmap 2025–2026  
-
-### 🔥 Q1–Q2 2025 — Skill Expansion  
-- 📚 Strengthen ML/AI fundamentals (modeling, evaluation, pipelines)  
-- ☁️ Grow cloud skills (AWS / Azure for data & analytics)  
-- 🐍 Improve Python for data engineering (OOP, testing, clean structure)  
-- 📘 Publish several high-quality repos (ML, ETL, dashboards)  
-
----
-
-### 🚗 Q3–Q4 2025 — Automotive & Finance Data Focus  
-- 🧩 Develop Smart City / IoT predictive analytics concepts  
-- 📡 Experiment with real-time data ingestion (APIs, streaming, sensors)  
-- 🧠 Train time-series and forecasting models (Prophet, XGBoost, etc.)  
-- 📊 Build dashboards for sensor & finance data (Plotly, Power BI)  
-
----
-
-### 🧠 2026 — Portfolio & Career Launch  
-- 🏗️ Turn projects into end-to-end case studies (from data to dashboard)  
-- 🐳 Containerize data pipelines (Docker) and experiment with deployment  
-- 🎯 Prepare for roles in Data Engineering / BI / Analytics in automotive & finance  
-- 💼 Grow LinkedIn & GitHub with project posts and clean documentation  
 
 ---
 
