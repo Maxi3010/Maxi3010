@@ -1,78 +1,42 @@
-<h1 align="center">Hi, I'm Maximilian 👋</h1>
+# Hey there! 👋
 
-<p align="center">
-  <b>Informatics Student | Data & AI | Data Warehouse / BI Intern @ Porsche Bank Group</b>
-</p>
+I'm Maximilian, a data & AI student based in Austria.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maximilian-knapp-9a23902a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Maximilian%20Knapp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:maximilianknapp55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I love building practical things — data pipelines, ML projects, dashboards, and small systems that help me understand how real engineering works.  
+If I get an idea, I usually build it, test it, break it, fix it, and ship it.
+
+Right now, I'm working in Data Warehouse & Business Intelligence at Porsche Bank Group, focusing on SQL, ETL, and analytics in the automotive/finance world.
 
 ---
 
-### 🚀 About Me  
+### What I'm working on
 
-- 🎓 5th-semester Informatics student (IMC Krems, Data/AI focus)  
-- 🏦 Working in Data Warehouse / Business Intelligence at Porsche Bank Group  
-- 🚗 Passionate about automotive, finance analytics & performance tuning  
-- 📊 Enjoy building data pipelines, dashboards and ML-powered insights  
-- ☁️ Learning more about Cloud (AWS/Azure) and production-grade data systems  
+- Building data engineering & ML projects for my portfolio   
+- Improving my skills in Python, SQL, cloud, and distributed systems  
+- Cleaning and publishing university projects as real GitHub repos  
 
 ---
 
-### 🛠 Tech Stack  
+### Fun Facts & Hobbies
 
-#### 🔹 Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-
-#### 🔹 Data / BI  
-![ETL](https://img.shields.io/badge/ETL-5C3EE8?style=for-the-badge)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-0A66C2?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-
-#### 🔹 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- I’m into cars, tuning, and automotive technology  
+- I train in the gym almost daily  
+- I enjoy working with data more than drinking coffee  
+- I play guitar in a rock band  
+- I like building things — code, dashboards, systems, anything that works  
 
 ---
 
-### 📈 GitHub Stats  
+### How to contact me
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Maxi3010&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Maxi3010&theme=tokyonight&hide_border=true" />
-</p>
+- LinkedIn: https://www.linkedin.com/in/maximilian-knapp-9a23902a7  
+- Email: **maximilianknapp55@gmail.com**
 
 ---
 
-### 🧪 Current Projects  
+### Tech Stack
 
-- 🏦 **Data Warehouse / BI @ Porsche Bank Group**  
-  Working with SQL, ETL flows and reporting in an automotive & finance environment.  
-
----
-
-### 🌐 Connect  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/maximilian-knapp-9a23902a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:maximilianknapp55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-> “Data turns raw information into decisions – and decisions move cars, cities, and people.”
+**Languages:** Python, SQL, R, C  
+**Data & BI:** ETL, Data Warehousing, Power BI  
+**Tools:** Git, Linux, VS Code, Docker  
+**Interests:** ML, predictive analytics, cloud engineering, automotive data
