@@ -61,4 +61,5 @@ I like building practical projects that connect software engineering, enterprise
 ## Contact
 
 - LinkedIn: [maximilian-knapp](https://www.linkedin.com/in/maximilian-knapp)
+- DataCamp Portfolio: [23imc10618](https://www.datacamp.com/portfolio/23imc10618-721d0016-aaf1-408e-93be-20405ed0a919)
 - Email: **maximilianknapp55@gmail.com**
