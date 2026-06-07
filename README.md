@@ -1,43 +1,42 @@
-# Hey there, I'm Maximilian
+# Hi, I'm Maximilian Knapp
 
-I'm a Computer Science student at IMC Krems based in Lower Austria and an incoming SAP Junior Software Developer Trainee at Phoron.
+Computer Science student at IMC Krems in Lower Austria, focused on software engineering, data-driven applications, machine learning, and enterprise systems. I like building practical projects that connect clean implementation with real business or analytical workflows.
 
-I like building practical projects that connect software engineering, enterprise systems, data, and real-world business requirements. My background combines computer science fundamentals with hands-on experience in Data Warehouse & Business Intelligence, SQL, ETL processes, analytics, data quality, logistics, and technical business workflows.
+I am especially interested in Python, SQL, Flask, data engineering, explainable AI, SAP development, and applications that turn messy requirements into understandable systems.
+
+## Portfolio Highlights
+
+| Project | Focus | Tech |
+| --- | --- | --- |
+| [music-streaming-platform](https://github.com/Maxi3010/music-streaming-platform) | Object-oriented domain model with users, tracks, playlists, sessions, and analytics queries | Python, pytest |
+| [omnicopy](https://github.com/Maxi3010/omnicopy) | FastAPI campaign-management backend with SQLModel persistence | Python, FastAPI, SQLModel, SQLite |
+| [flask_cs50](https://github.com/Maxi3010/flask_cs50) | Flask practice app combining forms, sessions, templates, SQLite, and JSON endpoints | Python, Flask, Jinja, SQLite |
+| [Bachelor-Thesis](https://github.com/Maxi3010/Bachelor-Thesis) | Loan-default modeling with model comparison and SHAP explainability | Python, XGBoost, SHAP, Jupyter |
+| [machine-learning-assignments](https://github.com/Maxi3010/machine-learning-assignments) | ML exercises covering clustering, decision trees, and neural networks | Python, Jupyter, scikit-learn |
+| [europe-weather-forecast](https://github.com/Maxi3010/europe-weather-forecast) | Browser-based weather forecast interface | HTML, CSS, JavaScript |
 
 ## Current Focus
 
-- Preparing for my next professional step in SAP software development
-- Building portfolio projects in software engineering, data-driven applications, analytics, machine learning, and web development
-- Improving my skills in Python, SQL, Flask, ABAP, SAP BTP, databases, AI tools, and enterprise application development
-- Turning university, portfolio, and practice projects into clean, documented GitHub repositories
+- Preparing for SAP software development and enterprise application workflows
+- Improving Python backend, data, ML, SQL, and Flask projects into clean portfolio repositories
+- Building stronger project documentation, tests, and reproducible setup instructions
 - Connecting business requirements with robust technical implementation
-
-## Featured Projects
-
-- [flask_cs50](https://github.com/Maxi3010/flask_cs50) - a Flask practice project inspired by CS50 exercises, covering routing, Jinja templates, forms, sessions, SQLite, JSON endpoints, and client-side search
-- **Explainable Credit Risk Modeling** - bachelor thesis project using Python, XGBoost, and SHAP to build interpretable credit-risk predictions
-- **High Performance ML Prediction Service** - distributed Python inference service using MPI, Docker, a master-worker architecture, and asynchronous message queues for fraud-detection prediction batches
-- **Flood Monitoring & Emergency Response System** - software engineering project for monitoring, data integration, and emergency coordination workflows
-- **Air Quality Forecasting Vienna** - exploratory data analysis and forecasting on real environmental data from Vienna
 
 ## Experience Highlights
 
 - **Incoming SAP Junior Software Developer Trainee, Phoron** - starting September 2026
-- **Data Warehouse & Business Intelligence, Porsche Bank Group** - complex SQL queries, SQL view optimization, ETL flow analysis, validation parameterization, reporting support, user access-rights cleanup, and data quality work in an automotive finance environment
-- **BRZ Austrian Federal Computing Centre Summer School** - team-based capstone work with big data, Python, Google Colab, environmental datasets, data science methods, and analytical approaches for large datasets
+- **Data Warehouse & Business Intelligence, Porsche Bank Group** - SQL queries, SQL view optimization, ETL flow analysis, validation parameterization, reporting support, access-rights cleanup, and data quality work in an automotive finance environment
+- **BRZ Austrian Federal Computing Centre Summer School** - team-based capstone work with big data, Python, Google Colab, environmental datasets, and data science methods
 
 ## Tech Stack
 
 - **Languages:** Python, SQL, R, Java, C, ABAP
-- **Backend & Web:** Flask, Jinja, HTML, CSS, JavaScript, REST
-- **Data & BI:** ETL, Data Warehousing, Power BI, MicroStrategy, analytics, data validation
+- **Backend & Web:** Flask, FastAPI, Jinja, HTML, CSS, JavaScript, REST APIs
+- **Data & BI:** ETL, data warehousing, analytics, data validation, Power BI, MicroStrategy
 - **Databases:** SQLite, Microsoft SQL Server, relational database design, SQL query optimization
-- **ML & AI:** XGBoost, SHAP, forecasting, AI tools, explainable AI
-- **Cloud & Systems:** AWS, Azure, Docker, distributed systems, MPI
-- **SAP & Enterprise:** SAP BTP, SAP Fiori, SAPUI5, Business Application Studio, RAP, CDS Views, OData, technical business processes
-- **Workflow:** Kanban, Jira, Confluence, agile software development
+- **ML & AI:** scikit-learn, XGBoost, SHAP, forecasting, explainable AI
+- **SAP & Enterprise:** SAP BTP, SAP Fiori, SAPUI5, RAP, CDS Views, OData
 - **Tools:** Git, GitHub, Linux, VS Code, Jupyter Notebook/Lab, Eclipse
-- **Interests:** Artificial intelligence, enterprise application development, machine learning, predictive analytics, cloud engineering, automotive data
 
 ## Certifications
 
@@ -50,16 +49,8 @@ I like building practical projects that connect software engineering, enterprise
 
 ## Education
 
-- **IMC Krems University of Applied Sciences** - BSc in Computer Science / Informatics, with focus areas in data science, AI, and business informatics
-- **Gymnasium Gmuend** - Austrian High School Diploma with a science focus
-
-## A Bit More About Me
-
-- Interested in cars, tuning, and automotive technology
-- Training in the gym is part of my routine
-- I play guitar in a rock band
-- I value teamwork through music, volunteering, and sports
-- I enjoy building things that work: code, dashboards, systems, and useful experiments
+- **IMC Krems University of Applied Sciences** - BSc in Computer Science / Informatics
+- **Gymnasium Gmuend** - Austrian high school diploma with a science focus
 
 ## Contact
 
